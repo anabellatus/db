@@ -161,5 +161,47 @@
       "category": "Laptop",
       "price": 28000000
     }
+  ],
+  "categories": [
+    {
+      "icon": "https://cdn-icons-png.flaticon.com/512/3437/3437364.png",
+      "name": "Smartphone"
+    },
+    {
+      "icon": "https://cdn-icons-png.flaticon.com/512/2888/2888704.png",
+      "name": "Laptop"
+    },
+    {
+      "icon": "https://cdn-icons-png.flaticon.com/512/564/564579.png",
+      "name": "Tablet"
+    },
+    {
+      "icon": "https://cdn-icons-png.flaticon.com/512/5906/5906114.png",
+      "name": "Earphone"
+    },
+    {
+      "icon": "https://cdn-icons-png.flaticon.com/512/2668/2668914.png",
+      "name": "Camera"
+    },
+    {
+      "icon": "https://cdn-icons-png.flaticon.com/512/8462/8462356.png",
+      "name": "Speaker"
+    },
+    {
+      "icon": "https://cdn-icons-png.flaticon.com/512/617/617694.png",
+      "name": "Smartwatch"
+    },
+    {
+      "icon": "https://cdn-icons-png.flaticon.com/512/771/771261.png",
+      "name": "Game Console"
+    },
+    {
+      "icon": "https://cdn-icons-png.flaticon.com/512/5606/5606227.png",
+      "name": "TV"
+    },
+    {
+      "icon": "https://cdn-icons-png.flaticon.com/512/6212/6212141.png",
+      "name": "Tools"
+    }
   ]
 }
